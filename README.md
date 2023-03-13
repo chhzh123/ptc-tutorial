@@ -25,7 +25,7 @@ This tutorial is designed for ECE6980 Spring 2023 @ Cornell. It covers the basic
 Please use a clean environment and install the following package.
 
 ```bash
-pip3 install torch numpy slapo tabulate
+pip3 install torch numpy slapo tabulate transformers
 ```
 
 
