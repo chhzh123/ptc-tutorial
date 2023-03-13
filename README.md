@@ -1,5 +1,7 @@
 # PyTorch Compilation Tutorial
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chhzh123/ptc-tutorial/blob/master/tutorial.ipynb)
+
 This tutorial is designed for ECE6980 Spring 2023 @ Cornell. It covers the basic compilation techniques in the PyTorch ecosystem.
 
 1. Basic [PyTorch](https://pytorch.org/)
